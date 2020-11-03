@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>Page title</title>
+<link rel="stylesheet" href="stil.css">
+</head>
+<body>
+
+
+
+
+<h2>Facultatea de electronica,telecomunicatii si tehnologia informatiei</h2>
+<h3> Anul 1 - Grupa 4</h2>
+<h1> Catalogul colegilor </h1>
+<ul> 
+
+<li> <a href="file:///C:/Users/Alexandra/Desktop/Catalogul/lab6.html"> Alexandra Mazga </a>
+<li> <a href="file:///C:/Users/Alexandra/Desktop/Catalogul/Carla%20Lacatos.html" > Carla Lacatos </a>
+<li> <a href="file:///C:/Users/Alexandra/Desktop/Catalogul/Enoh%20Comsa.html" > Enoh Comsa </a>
+<li> <a href="file:///C:/Users/Alexandra/Desktop/Catalogul/Cristian%20Chiriac.html" > Cristian Chiriac </a>
+
+
+
+
+
+</body>
+</html>

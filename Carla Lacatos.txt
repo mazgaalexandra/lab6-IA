@@ -1,0 +1,68 @@
+<html><head></head><body>
+    <style>
+body { background-color: lightblue; }
+
+h1 { color: red;
+  text-align: center;
+  font-family: Verdana;
+}
+h2 { color : green;
+    text-align : left;
+    font-family : arial;}
+h3 { color : white; }
+
+
+p { font-family: verdana;
+  font-size: 20px;}
+  
+img {border : 3px solid yellow;
+     width : 150px ;
+     display : block ;
+     opacity : 0.4;}
+table { background-colour : red;  }
+ul {background-colour : blue ;
+table , tr ,td , ul {border : 3px solid orange;}
+tr:hover {background-color : #f5f5f5}
+     
+     
+</style>
+    
+    
+
+<h1>Lacatos Carla-Dorotea</h1>
+<h2>Email</h2>
+<p>lacatoscarla@gmail.com<br>lacatoscarla@yahoo.com</p>
+<h2>Poza de profil</h2>
+<img src="IZM_1772.jpg" alt="Italian Trulli" height="250px">
+<table>
+  <tbody><tr>
+    <th>Disciplina</th>
+    <th>An</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Analiza matematica</td>
+    <td>I</td>
+    <td><a target="_blank" rel="noopener noreferrer" href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/17.pdf ">https://etti.utcluj.ro/files/FiseDisciplina/EaRo/17.pdf</a></td>
+  </tr>
+  <tr>
+    <td>Programare</td>
+    <td>I</td>
+    <td><a target="_blank" rel="noopener noreferrer" href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/04.pdf">https://etti.utcluj.ro/files/FiseDisciplina/EaRo/04.pdf</a></td>
+  </tr>
+  <tr>
+    <td>Grafica asistata de calculator</td>
+    <td>II</td>
+    <td><a target="_blank" rel="noopener noreferrer" href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/17.pdf">https://etti.utcluj.ro/files/FiseDisciplina/EaRo/17.pdf</a></td>
+  </tr>
+</tbody></table>
+<h2>Hobby-uri</h2>
+<ul>
+  <li>Ciclism</li>
+  <li>Citit</li>
+  <li>Canto</li>
+</ul>
+
+<p> <a href="file:///C:/Users/Alexandra/Desktop/Catalogul/Catalogul%20colegilor.html"> Inapoi la catalog </a>
+
+</body></html>
